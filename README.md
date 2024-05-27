@@ -22,17 +22,22 @@ For me, going through the whole process was very instructive, and I feel that I 
 ## Results
 
 ### PD with behavior variables
+We can see that the slope isn't to steep, which is a good sign when validating probability of defaults. Further more we can see that the higher PD scores directly correlates with the amount of actual defaults.
+The confusion matrix threshold is set to maximize profit and minimize loss. The False negatives are the ones that we need to avoid.
 <img src="https://github.com/bvermes/Credit-Risk-Modeling-Msc-Thesis/blob/main/images/lr_matrix_and_slope.png" alt="PD with behavior variables">
 
+The reason behind the large difference in the validation and test set, is the amount of default values. Validation has a lot more, thus harder to get a high roc curve. Train and test set has pretty much the same ROC curve.
 <img src="https://github.com/bvermes/Credit-Risk-Modeling-Msc-Thesis/blob/main/images/lr_roc.png" alt="PD with behavior variables">
 
 ### PD without behavior variables
 <img src="https://github.com/bvermes/Credit-Risk-Modeling-Msc-Thesis/blob/main/images/lgd_post_overall.png" alt="LGD with behavior variables">
 
 ### LGD with behavior variables
+The LGD validation set doesn't have many records, therefore the results have a large variance.
 <img src="https://github.com/bvermes/Credit-Risk-Modeling-Msc-Thesis/blob/main/images/lgd_post_overall.png" alt="LGD with behavior variables">
 
 ### LGD without behavior variables
+The LGD validation set doesn't have many records, therefore the results have a large variance.
 <img src="https://github.com/bvermes/Credit-Risk-Modeling-Msc-Thesis/blob/main/images/lgd_pre_overall.png" alt="LGD without behavior variables">
 
 
@@ -41,8 +46,9 @@ For me, going through the whole process was very instructive, and I feel that I 
 
 Feel free to contact me to discuss any issues, questions or comments.
 
-* GitHub: [bvermes]([https://github.com/bvermes])
-* Email: [Balázs Vermes]([bvermes1999@gmail.com])
+* GitHub: [bvermes](https://github.com/bvermes)
+
+* Email: [Balázs Vermes](bvermes1999@gmail.com)
 
 
 ## License
