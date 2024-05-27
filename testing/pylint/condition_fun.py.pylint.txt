@@ -1,0 +1,19 @@
+************* Module credit-risk-models.woe.condition_fun
+woe/condition_fun.py:11:0: C0103: Function name "lr" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:11:7: C0103: Argument name "dt" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:11:11: C0103: Argument name "y" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:11:14: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:24:16: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:65:0: C0103: Function name "check_cateCols_uniqueValues" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:143:17: C0103: Argument name "y" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:184:12: C0103: Variable name "y1" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:185:12: C0103: Variable name "y2" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:223:20: C0103: Argument name "y" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:223:23: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:250:35: C0103: Argument name "xs" doesn't conform to snake_case naming style (invalid-name)
+woe/condition_fun.py:250:35: W0613: Unused argument 'xs' (unused-argument)
+woe/condition_fun.py:262:41: C0103: Argument name "xs" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.90/10 (previous run: 8.90/10, +0.00)
+

@@ -1,0 +1,13 @@
+************* Module credit-risk-models.pd.pd_modeller_engine
+pd/pd_modeller_engine.py:48:8: C0103: Attribute name "X_train" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_modeller_engine.py:49:8: C0103: Attribute name "X_test" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_modeller_engine.py:50:8: C0103: Attribute name "X_train_woe" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_modeller_engine.py:51:8: C0103: Attribute name "X_test_woe" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_modeller_engine.py:46:18: C0103: Argument name "X_train" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_modeller_engine.py:46:27: C0103: Argument name "X_train_woe" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_modeller_engine.py:46:40: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_modeller_engine.py:46:48: C0103: Argument name "X_test_woe" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 7.14/10 (previous run: 7.14/10, +0.00)
+

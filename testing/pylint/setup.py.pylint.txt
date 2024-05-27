@@ -1,0 +1,6 @@
+************* Module credit-risk-models.setup
+setup.py:2:0: W0611: Unused numpy imported as np (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 8.75/10 (previous run: 8.75/10, +0.00)
+

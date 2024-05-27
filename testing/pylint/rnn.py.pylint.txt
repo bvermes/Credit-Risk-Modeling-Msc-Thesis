@@ -1,0 +1,18 @@
+************* Module credit-risk-models.models.rnn
+models/rnn.py:26:31: C0103: Argument name "X_train" doesn't conform to snake_case naming style (invalid-name)
+models/rnn.py:26:40: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+models/rnn.py:28:8: C0103: Variable name "X_scaled" doesn't conform to snake_case naming style (invalid-name)
+models/rnn.py:29:8: C0103: Variable name "y" doesn't conform to snake_case naming style (invalid-name)
+models/rnn.py:26:40: W0613: Unused argument 'X_test' (unused-argument)
+models/rnn.py:26:48: W0613: Unused argument 'y_train' (unused-argument)
+models/rnn.py:26:57: W0613: Unused argument 'y_test' (unused-argument)
+models/rnn.py:28:8: W0612: Unused variable 'X_scaled' (unused-variable)
+models/rnn.py:31:8: W0612: Unused variable 'model' (unused-variable)
+models/rnn.py:45:18: C0103: Argument name "X_train" doesn't conform to snake_case naming style (invalid-name)
+models/rnn.py:45:27: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+models/rnn.py:46:8: W0612: Unused variable 'parameters' (unused-variable)
+models/rnn.py:46:20: W0612: Unused variable 'performance_metrics' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

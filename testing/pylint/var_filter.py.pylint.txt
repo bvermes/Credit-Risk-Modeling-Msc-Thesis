@@ -1,0 +1,8 @@
+************* Module credit-risk-models.woe.var_filter
+woe/var_filter.py:12:4: C0103: Argument name "dt" doesn't conform to snake_case naming style (invalid-name)
+woe/var_filter.py:13:4: C0103: Argument name "y" doesn't conform to snake_case naming style (invalid-name)
+woe/var_filter.py:14:4: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.44/10 (previous run: 9.44/10, +0.00)
+

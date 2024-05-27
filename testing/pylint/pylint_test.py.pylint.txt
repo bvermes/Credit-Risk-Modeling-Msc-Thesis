@@ -1,0 +1,6 @@
+************* Module credit-risk-models.pylint_test
+pylint_test.py:7:14: W0612: Unused variable 'dirs' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 9.71/10 (previous run: 9.71/10, +0.00)
+

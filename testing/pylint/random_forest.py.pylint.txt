@@ -1,0 +1,12 @@
+************* Module credit-risk-models.models.random_forest
+models/random_forest.py:21:41: C0103: Argument name "X_train" doesn't conform to snake_case naming style (invalid-name)
+models/random_forest.py:21:50: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+models/random_forest.py:22:8: C0103: Variable name "rf" doesn't conform to snake_case naming style (invalid-name)
+models/random_forest.py:42:8: C0103: Variable name "X_train_res" doesn't conform to snake_case naming style (invalid-name)
+models/random_forest.py:52:8: C0103: Variable name "X_train_res" doesn't conform to snake_case naming style (invalid-name)
+models/random_forest.py:93:18: C0103: Argument name "X_train" doesn't conform to snake_case naming style (invalid-name)
+models/random_forest.py:93:27: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.68/10 (previous run: 8.04/10, +0.64)
+

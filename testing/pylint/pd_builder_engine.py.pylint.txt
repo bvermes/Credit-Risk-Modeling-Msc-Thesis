@@ -1,0 +1,14 @@
+************* Module credit-risk-models.pd.pd_builder_engine
+pd/pd_builder_engine.py:15:8: C0103: Attribute name "df" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_builder_engine.py:18:8: C0103: Attribute name "pdDataEngineerEngine" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_builder_engine.py:27:8: C0103: Attribute name "pdModellerEngine" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_builder_engine.py:34:8: C0103: Attribute name "pdValidatorEngine" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_builder_engine.py:46:11: C0103: Attribute name "X_train" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_builder_engine.py:47:11: C0103: Attribute name "X_train_woe" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_builder_engine.py:48:11: C0103: Attribute name "X_test" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_builder_engine.py:49:11: C0103: Attribute name "X_test_woe" doesn't conform to snake_case naming style (invalid-name)
+pd/pd_builder_engine.py:62:8: C0103: Variable name "isLatest" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 6.79/10 (previous run: 6.13/10, +0.66)
+

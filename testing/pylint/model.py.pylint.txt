@@ -1,0 +1,16 @@
+************* Module credit-risk-models.models.model
+models/model.py:40:35: C0103: Argument name "lr" doesn't conform to snake_case naming style (invalid-name)
+models/model.py:40:39: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+models/model.py:48:12: C0103: Variable name "cm" doesn't conform to snake_case naming style (invalid-name)
+models/model.py:60:26: C0103: Argument name "lr" doesn't conform to snake_case naming style (invalid-name)
+models/model.py:60:30: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+models/model.py:64:8: C0103: Variable name "cm" doesn't conform to snake_case naming style (invalid-name)
+models/model.py:62:19: W0612: Unused variable 'score' (unused-variable)
+models/model.py:79:12: C0103: Variable name "df" doesn't conform to snake_case naming style (invalid-name)
+models/model.py:83:12: C0103: Variable name "df" doesn't conform to snake_case naming style (invalid-name)
+models/model.py:91:8: W0612: Unused variable 'formatted_parameters' (unused-variable)
+models/model.py:103:31: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.64/10 (previous run: 8.54/10, +0.11)
+

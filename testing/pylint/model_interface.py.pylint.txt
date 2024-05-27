@@ -1,0 +1,25 @@
+************* Module credit-risk-models.model_interface
+model_interface.py:62:8: C0103: Variable name "df" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:66:32: C0103: Argument name "df" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:68:8: C0103: Variable name "pd_pre_X_reg" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:69:8: C0103: Variable name "pd_pre_X_reg" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:71:8: C0103: Variable name "pd_post_X_reg" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:72:8: C0103: Variable name "pd_post_X_reg" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:76:8: C0103: Variable name "pd_pre_X_class" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:78:8: C0103: Variable name "pd_pre_X_class" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:86:8: C0103: Variable name "pd_pre_X_class" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:87:8: C0103: Variable name "pd_pre_X_class" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:89:8: C0103: Variable name "pd_post_X_class" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:91:8: C0103: Variable name "pd_post_X_class" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:99:8: C0103: Variable name "pd_post_X_class" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:100:8: C0103: Variable name "pd_post_X_class" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:105:8: C0103: Variable name "pd_pre_X_reg" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:105:22: C0103: Variable name "pd_post_X_reg" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:105:37: C0103: Variable name "pd_pre_X_class" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:105:53: C0103: Variable name "pd_post_X_class" doesn't conform to snake_case naming style (invalid-name)
+model_interface.py:121:8: W0612: Unused variable 'result_df' (unused-variable)
+model_interface.py:129:8: W0612: Unused variable 'result_df' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 7.80/10 (previous run: 7.80/10, +0.00)
+

@@ -1,0 +1,13 @@
+************* Module credit-risk-models.woe.info_value
+woe/info_value.py:8:0: C0103: Function name "iv" doesn't conform to snake_case naming style (invalid-name)
+woe/info_value.py:8:7: C0103: Argument name "dt" doesn't conform to snake_case naming style (invalid-name)
+woe/info_value.py:8:11: C0103: Argument name "y" doesn't conform to snake_case naming style (invalid-name)
+woe/info_value.py:8:14: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+woe/info_value.py:58:4: C0103: Variable name "xs" doesn't conform to snake_case naming style (invalid-name)
+woe/info_value.py:74:10: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+woe/info_value.py:74:13: C0103: Argument name "y" doesn't conform to snake_case naming style (invalid-name)
+woe/info_value.py:76:16: C0103: Argument name "df" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 7.50/10 (previous run: 7.50/10, +0.00)
+

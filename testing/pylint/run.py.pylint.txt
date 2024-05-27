@@ -1,0 +1,7 @@
+************* Module credit-risk-models.run
+run.py:12:4: C0103: Constant name "replace_with_most_recent_model" doesn't conform to UPPER_CASE naming style (invalid-name)
+run.py:28:4: C0103: Constant name "source" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.95/10 (previous run: 1.82/10, +7.13)
+

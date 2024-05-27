@@ -1,0 +1,18 @@
+************* Module credit-risk-models.models.logistic_regression
+models/logistic_regression.py:26:35: C0103: Argument name "X_train" doesn't conform to snake_case naming style (invalid-name)
+models/logistic_regression.py:26:44: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+models/logistic_regression.py:28:8: C0103: Variable name "lr" doesn't conform to snake_case naming style (invalid-name)
+models/logistic_regression.py:49:8: C0103: Variable name "X_train_res" doesn't conform to snake_case naming style (invalid-name)
+models/logistic_regression.py:90:18: C0103: Argument name "X_train" doesn't conform to snake_case naming style (invalid-name)
+models/logistic_regression.py:90:27: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+models/logistic_regression.py:1:0: W0611: Unused StratifiedKFold imported from sklearn.model_selection (unused-import)
+models/logistic_regression.py:1:0: W0611: Unused BaseCrossValidator imported from sklearn.model_selection (unused-import)
+models/logistic_regression.py:1:0: W0611: Unused GroupKFold imported from sklearn.model_selection (unused-import)
+models/logistic_regression.py:2:0: W0611: Unused check_random_state imported from sklearn.utils (unused-import)
+models/logistic_regression.py:4:0: W0611: Unused StandardScaler imported from sklearn.preprocessing (unused-import)
+models/logistic_regression.py:6:0: W0611: Unused import joblib (unused-import)
+models/logistic_regression.py:7:0: W0611: Unused import os (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 7.35/10 (previous run: 6.92/10, +0.42)
+

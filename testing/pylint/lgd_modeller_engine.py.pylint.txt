@@ -1,0 +1,9 @@
+************* Module credit-risk-models.lgd.lgd_modeller_engine
+lgd/lgd_modeller_engine.py:43:8: C0103: Attribute name "X_train" doesn't conform to snake_case naming style (invalid-name)
+lgd/lgd_modeller_engine.py:44:8: C0103: Attribute name "X_test" doesn't conform to snake_case naming style (invalid-name)
+lgd/lgd_modeller_engine.py:41:18: C0103: Argument name "X_train" doesn't conform to snake_case naming style (invalid-name)
+lgd/lgd_modeller_engine.py:41:27: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.40/10 (previous run: 8.40/10, +0.00)
+

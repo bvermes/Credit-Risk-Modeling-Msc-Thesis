@@ -1,0 +1,15 @@
+************* Module credit-risk-models.lgd.lgd_builder_engine
+lgd/lgd_builder_engine.py:15:8: C0103: Attribute name "df" doesn't conform to snake_case naming style (invalid-name)
+lgd/lgd_builder_engine.py:18:8: C0103: Attribute name "lgdDataEngineerEngine" doesn't conform to snake_case naming style (invalid-name)
+lgd/lgd_builder_engine.py:27:8: C0103: Attribute name "lgdModellerEngine" doesn't conform to snake_case naming style (invalid-name)
+lgd/lgd_builder_engine.py:34:8: C0103: Attribute name "lgdValidatorEngine" doesn't conform to snake_case naming style (invalid-name)
+lgd/lgd_builder_engine.py:46:8: C0103: Attribute name "X_train" doesn't conform to snake_case naming style (invalid-name)
+lgd/lgd_builder_engine.py:47:8: C0103: Attribute name "X_test" doesn't conform to snake_case naming style (invalid-name)
+lgd/lgd_builder_engine.py:59:8: C0103: Variable name "isLatest" doesn't conform to snake_case naming style (invalid-name)
+lgd/lgd_builder_engine.py:2:0: W0611: Unused import joblib (unused-import)
+lgd/lgd_builder_engine.py:3:0: W0611: Unused import pickle (unused-import)
+lgd/lgd_builder_engine.py:4:0: W0611: Unused import os (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 6.30/10 (previous run: 6.07/10, +0.22)
+

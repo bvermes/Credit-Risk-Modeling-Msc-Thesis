@@ -1,0 +1,7 @@
+************* Module credit-risk-models.utils.data_utils
+utils/data_utils.py:4:36: C0103: Argument name "df" doesn't conform to snake_case naming style (invalid-name)
+utils/data_utils.py:1:0: W0611: Unused pandas imported as pd (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 8.57/10 (previous run: 8.57/10, +0.00)
+

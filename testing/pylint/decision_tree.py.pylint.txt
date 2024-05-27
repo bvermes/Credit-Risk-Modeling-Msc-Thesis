@@ -1,0 +1,12 @@
+************* Module credit-risk-models.models.decision_tree
+models/decision_tree.py:24:40: C0103: Argument name "X_train" doesn't conform to snake_case naming style (invalid-name)
+models/decision_tree.py:24:49: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+models/decision_tree.py:25:8: C0103: Variable name "dt" doesn't conform to snake_case naming style (invalid-name)
+models/decision_tree.py:42:8: C0103: Variable name "X_train_res" doesn't conform to snake_case naming style (invalid-name)
+models/decision_tree.py:55:8: C0103: Variable name "X_train_res" doesn't conform to snake_case naming style (invalid-name)
+models/decision_tree.py:103:18: C0103: Argument name "X_train" doesn't conform to snake_case naming style (invalid-name)
+models/decision_tree.py:103:27: C0103: Argument name "X_test" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.77/10 (previous run: 7.54/10, +1.23)
+

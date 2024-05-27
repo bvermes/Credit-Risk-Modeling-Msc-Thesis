@@ -1,0 +1,8 @@
+************* Module credit-risk-models.try
+try.py:32:67: C0103: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+try.py:14:20: W0612: Unused variable 'files' (unused-variable)
+try.py:38:0: C0103: Constant name "path" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+-----------------------------------
+Your code has been rated at 9.00/10
+

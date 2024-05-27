@@ -1,0 +1,4 @@
+Parameters:
+log_reg_param_grid: {'penalty': ['l1', 'l2'], 'solver': ['liblinear', 'saga']}
+decision_tree_param_grid: {'max_depth': [1, 2, 4]}
+random_forest_param_grid: {'criterion': ['gini', 'entropy'], 'bootstrap': [True], 'max_features': ['sqrt', 'log2']}

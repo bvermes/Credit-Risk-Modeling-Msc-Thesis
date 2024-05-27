@@ -1,0 +1,20 @@
+************* Module data_engineer_engine
+parent_classes/data_engineer_engine.py:22:8: C0103: Attribute name "df" doesn't conform to snake_case naming style (invalid-name)
+parent_classes/data_engineer_engine.py:13:8: C0103: Argument name "df" doesn't conform to snake_case naming style (invalid-name)
+parent_classes/data_engineer_engine.py:56:12: C0103: Variable name "ax" doesn't conform to snake_case naming style (invalid-name)
+parent_classes/data_engineer_engine.py:83:20: C0103: Variable name "ax" doesn't conform to snake_case naming style (invalid-name)
+parent_classes/data_engineer_engine.py:76:12: W0612: Unused variable 'fig' (unused-variable)
+parent_classes/data_engineer_engine.py:104:17: C0103: Variable name "ax" doesn't conform to snake_case naming style (invalid-name)
+parent_classes/data_engineer_engine.py:104:12: W0612: Unused variable 'fig' (unused-variable)
+parent_classes/data_engineer_engine.py:145:17: C0103: Variable name "ax" doesn't conform to snake_case naming style (invalid-name)
+parent_classes/data_engineer_engine.py:145:12: W0612: Unused variable 'fig' (unused-variable)
+parent_classes/data_engineer_engine.py:170:17: C0103: Variable name "ax" doesn't conform to snake_case naming style (invalid-name)
+parent_classes/data_engineer_engine.py:170:12: W0612: Unused variable 'fig' (unused-variable)
+parent_classes/data_engineer_engine.py:215:17: C0103: Variable name "ax" doesn't conform to snake_case naming style (invalid-name)
+parent_classes/data_engineer_engine.py:215:12: W0612: Unused variable 'fig' (unused-variable)
+parent_classes/data_engineer_engine.py:255:12: W0612: Unused variable 'fig' (unused-variable)
+parent_classes/data_engineer_engine.py:296:16: C0103: Variable name "z" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.24/10 (previous run: 9.15/10, +0.09)
+

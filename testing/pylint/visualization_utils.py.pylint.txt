@@ -1,0 +1,9 @@
+************* Module credit-risk-models.utils.visualization_utils
+utils/visualization_utils.py:1:23: C0103: Argument name "df" doesn't conform to snake_case naming style (invalid-name)
+utils/visualization_utils.py:1:23: W0613: Unused argument 'df' (unused-argument)
+utils/visualization_utils.py:1:27: W0613: Unused argument 'title' (unused-argument)
+utils/visualization_utils.py:1:0: W0613: Unused argument 'kwargs' (unused-argument)
+
+------------------------------------------------------------------
+Your code has been rated at 4.29/10 (previous run: 4.29/10, +0.00)
+
