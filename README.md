@@ -11,13 +11,29 @@ field and use the lessons learned for the design and the implementation of my ow
 modeling process.
 
 
-To achieve this, I have defined the tasks to be solved and the methodology for the solution process. For each tasks, I have researched the related work in the field and used the lessons learned in my own solution. 
-I have placed great emphasis on presenting the considerations and have tried to present this less well known area of modelling in a comprehensive way.
-Particular attention has been paid to ensuring data quality.
-I have carried out several data cleaning processes, dedicated for each modelling procedure.
-Then, for different algorithms, separate data sets were created for the corresponding the training set with the appropriate transformations.
-My goal was to use algorithms that are interpretable. I examined the results obtained from several points of view and did new iterations if necessary. The end result was a system, in which the start-up of the modelling procedures is fast, easy to configure and reusable. The result is stable, well-explained, marketable models and the positive financial implications of putting them into operation were calculated supported by cost-benefit calculations.
-For me, going through the whole process was very instructive and I feel that, I have learned more data-related fields.
+To achieve this, I defined the tasks to be solved and the methodology for the solution process. For each task, I researched related work in the field and applied the lessons learned to my own solution. I emphasized presenting the considerations comprehensively to shed light on this lesser-known area of modeling.
+
+Particular attention was paid to ensuring data quality. I conducted several data cleaning processes specific to each modeling procedure. Then, for different algorithms, I created separate datasets for the corresponding training sets with appropriate transformations.
+
+My goal was to use interpretable algorithms. I examined the results from several perspectives and conducted new iterations as necessary. The end result is a system where the start-up of modeling procedures is fast, easy to configure, and reusable. The result is stable, well-explained, marketable models, with the positive financial implications of their implementation supported by cost-benefit calculations.
+
+For me, going through the whole process was very instructive, and I feel that I have expanded my knowledge in various data-related fields.
+
+## Results
+
+### PD with behavior variables
+<img src="https://github.com/bvermes/Credit-Risk-Modeling-Msc-Thesis/blob/main/images/lr_matrix_and_slope.png" alt="PD with behavior variables">
+
+<img src="https://github.com/bvermes/Credit-Risk-Modeling-Msc-Thesis/blob/main/images/lr_roc.png" alt="PD with behavior variables">
+
+### PD without behavior variables
+<img src="https://github.com/bvermes/Credit-Risk-Modeling-Msc-Thesis/blob/main/images/lgd_post_overall.png" alt="LGD with behavior variables">
+
+### LGD with behavior variables
+<img src="https://github.com/bvermes/Credit-Risk-Modeling-Msc-Thesis/blob/main/images/lgd_post_overall.png" alt="LGD with behavior variables">
+
+### LGD without behavior variables
+<img src="https://github.com/bvermes/Credit-Risk-Modeling-Msc-Thesis/blob/main/images/lgd_pre_overall.png" alt="LGD without behavior variables">
 
 
 
